@@ -1,0 +1,2 @@
+rootProject.name = "Output Primitives"
+include ':app'

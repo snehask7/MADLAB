@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex7-Database</string>
+    <string-array name="departments">
+        <item>Management</item>
+        <item>Technical</item>
+    </string-array>
+</resources>
